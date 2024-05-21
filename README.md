@@ -1,2 +1,2 @@
 # Agile-sesi-19
-github intro
+Agile assignment 6 Github intro
